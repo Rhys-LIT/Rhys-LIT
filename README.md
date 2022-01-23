@@ -1,0 +1,3 @@
+- I am Rhys Quilter,
+- I am currently studying Software Development in TUS limerick formally known as LIT
+-
